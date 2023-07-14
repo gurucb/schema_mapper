@@ -1,0 +1,10 @@
+- Enumerate files from source folder
+- For each file,
+    - Get File Name
+    - Read JSON File
+    - File Name: Got to LLM to get Semantic meaning of entity along with alternate names.
+    - Attribute Name: Go to LLM to get semantic meaning of attribute along with alternate names.
+    - Modify JSON
+- Store modified JSON back to disk (in a separate folder)
+- Ingest data to Azure BLOB storage
+- Create Search Index

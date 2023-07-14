@@ -1,2 +1,2 @@
 # schema_mapper
-Entity / Schema Mapper
+Schema mapper maps source and target schema entities both at entity and attribute scopes. It is an attempt to leverage Azure Cognitive Search and LLM to map based on syntactic (lexical), semantic elements.
